@@ -1,0 +1,22 @@
+# SysTelligence — PXE Boot Menu Configuration
+# Video: PXE Boot + Kickstart: Deploy 100 Linux Servers Automatically
+# github.com/muralipala1504/systelligence-cheatsheets
+
+DEFAULT menu.c32
+PROMPT 0
+TIMEOUT 300
+MENU TITLE SysTelligence PXE Boot Menu
+
+LABEL rhel9-kickstart
+    MENU LABEL Install RHEL 9 (Kickstart)
+    KERNEL rhel9/vmlinuz
+    APPEND initrd=rhel9/initrd.img inst.ks=http://192.168.1.10/ks.cfg quiet
+
+LABEL ubuntu22-preseed
+    MENU LABEL Install Ubuntu 22.04 (Preseed)
+    KERNEL ubuntu22/vmlinuz
+    APPEND initrd=ubuntu22/initrd.img preseed/url=http://192.168.1.10/preseed.cfg quiet
+
+LABEL local
+    MENU LABEL Boot from Local Disk
+    LOCALBOOT 0

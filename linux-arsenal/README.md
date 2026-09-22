@@ -1,0 +1,16 @@
+# Linux Arsenal Series
+
+Modern Linux tools and techniques for production sysadmins and DevOps engineers.
+
+📺 Playlist: [Linux Arsenal Series](https://youtube.com/@SysTelligence)
+
+---
+
+## Episodes
+
+| Episode | Topic | Cheatsheet |
+|---------|-------|------------|
+| Ep1 | Modern Linux Commands | [modern-linux-commands.md](modern-linux-commands.md) |
+
+---
+*Questions? Drop them in the YouTube comments — I read every single one.*

@@ -14,6 +14,7 @@ Modern Linux tools and techniques for production sysadmins and DevOps engineers.
 | Ep2 | ip and ss Deep Dive | [ip-ss-deep-dive.md](ip-ss-deep-dive.md) |
 | Ep3 | awk and bat Deep Dive | [awk-bat-deep-dive.md](awk-bat-deep-dive.md) |
 | Ep4 | jq and journalctl Deep Dive | [jq-journalctl-deep-dive.md](jq-journalctl-deep-dive.md) |
+| Ep5 | fd and ripgrep Deep Dive | [fd-ripgrep-deep-dive.md](fd-ripgrep-deep-dive.md) |
 
 ---
 *Questions? Drop them in the YouTube comments — I read every single one.*

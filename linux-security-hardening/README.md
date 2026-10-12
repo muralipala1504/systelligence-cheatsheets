@@ -1,6 +1,6 @@
 # Linux Security Hardening Series
 
-Production Linux security — the way twenty years of enterprise RHEL experience teaches you.
+Production Linux security - the way twenty years of enterprise RHEL experience teaches you.
 
 📺 Playlist: [Linux Security Hardening Series](https://youtube.com/@SysTelligence)
 
@@ -15,4 +15,4 @@ Production Linux security — the way twenty years of enterprise RHEL experience
 | Ep3 | Linux Audit Trail | [linux-audit-trail-guide.md](linux-audit-trail-guide.md) |
 
 ---
-*Questions? Drop them in the YouTube comments — I read every single one.*
+*Questions? Drop them in the YouTube comments - I read every single one.*

@@ -15,6 +15,8 @@ Modern Linux tools and techniques for production sysadmins and DevOps engineers.
 | Ep3 | awk and bat Deep Dive | [awk-bat-deep-dive.md](awk-bat-deep-dive.md) |
 | Ep4 | jq and journalctl Deep Dive | [jq-journalctl-deep-dive.md](jq-journalctl-deep-dive.md) |
 | Ep5 | fd and ripgrep Deep Dive | [fd-ripgrep-deep-dive.md](fd-ripgrep-deep-dive.md) |
+| Ep6 | nftables and systemd Deep Dive | [nftables-systemd-deep-dive.md](nftables-systemd-deep-dive.md) |
+| Ep7 | nmcli Network Configuration | [nmcli-network-config-deep-dive.md](nmcli-network-config-deep-dive.md) |
 
 ---
 *Questions? Drop them in the YouTube comments — I read every single one.*

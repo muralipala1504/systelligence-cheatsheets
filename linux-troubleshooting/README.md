@@ -17,6 +17,7 @@ Real Linux production incidents — diagnosed and fixed the way twenty years of 
 | Ep5 | Nginx and Apache Not Serving | [nginx-apache-troubleshooting.md](nginx-apache-troubleshooting.md) |
 | Ep6 | Linux OOM Killer | [oom-killer-guide.md](oom-killer-guide.md) |
 | Ep7 | Network Troubleshooting | [network-troubleshooting-guide.md](network-troubleshooting-guide.md) |
-
+| Ep8 | Inode Exhaustion | [inode-exhaustion-guide.md](inode-exhaustion-guide.md) |
+| Ep9 | Slow Server - Finding the Bottleneck | [slow-server-bottleneck.md](slow-server-bottleneck.md) |
 ---
 *Questions? Drop them in the YouTube comments — I read every single one.*

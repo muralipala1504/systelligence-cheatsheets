@@ -14,5 +14,6 @@ Production Linux security - the way twenty years of enterprise RHEL experience t
 | Ep2 | SSH Hardening | [ssh-hardening-guide.md](ssh-hardening-guide.md) |
 | Ep3 | Linux Audit Trail | [linux-audit-trail-guide.md](linux-audit-trail-guide.md) |
 | Ep4 | Fail2ban SSH Protection | [fail2ban-ssh-protection-guide.md](fail2ban-ssh-protection-guide.md) |
+| Ep5 | Kernel Security - sysctl Hardening | [kernel-security-sysctl.md](kernel-security-sysctl.md) |
 ---
 *Questions? Drop them in the YouTube comments - I read every single one.*

@@ -97,5 +97,5 @@ update-crypto-policies --set FUTURE
 # Requires reboot to fully apply
 reboot
 
-Questions? Drop them in the YouTube comments — I reed every single one.
+Questions? Drop them in the YouTube comments — I read every single one.
 📺 youtube.com/@SysTelligence

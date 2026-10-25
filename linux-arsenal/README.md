@@ -17,6 +17,7 @@ Modern Linux tools and techniques for production sysadmins and DevOps engineers.
 | Ep5 | fd and ripgrep Deep Dive | [fd-ripgrep-deep-dive.md](fd-ripgrep-deep-dive.md) |
 | Ep6 | nftables and systemd Deep Dive | [nftables-systemd-deep-dive.md](nftables-systemd-deep-dive.md) |
 | Ep7 | nmcli Network Configuration | [nmcli-network-config-deep-dive.md](nmcli-network-config-deep-dive.md) |
+| Ep8 | eBPF and bpftrace Deep Dive | [ebpf-bpftrace-deep-dive.md](ebpf-bpftrace-deep-dive.md) |
 
 ---
 *Questions? Drop them in the YouTube comments — I read every single one.*

@@ -11,6 +11,6 @@ Exam prep meets enterprise reality — the way twenty years of RHEL experience t
 | Episode | Topic | Cheatsheet |
 |---------|-------|------------|
 | Ep1 | The Broken FSTAB | [broken-fstab-recovery.md](broken-fstab-recovery.md) |
-
+| Ep2 | Live LVM Storage Migration | [live-lvm-migration.md](live-lvm-migration.md) |
 ---
 *Questions? Drop them in the YouTube comments — I read every single one.*

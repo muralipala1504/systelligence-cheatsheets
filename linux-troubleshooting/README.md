@@ -10,10 +10,10 @@ Real Linux production incidents — diagnosed and fixed the way twenty years of 
 
 | Episode | Topic | Cheatsheet |
 |---------|-------|------------|
-| Ep1 | Linux Root Password Reset | coming soon |
-| Ep2 | Linux Server Won't Boot | coming soon |
-| Ep3 | Disk Full Emergency | coming soon |
-| Ep4 | High Load Average | coming soon |
+| Ep1 | Linux Root Password Reset | - |
+| Ep2 | Linux Server Won't Boot | - |
+| Ep3 | Disk Full Emergency | - |
+| Ep4 | High Load Average | - |
 | Ep5 | Nginx and Apache Not Serving | [nginx-apache-troubleshooting.md](nginx-apache-troubleshooting.md) |
 | Ep6 | Linux OOM Killer | [oom-killer-guide.md](oom-killer-guide.md) |
 | Ep7 | Network Troubleshooting | [network-troubleshooting-guide.md](network-troubleshooting-guide.md) |

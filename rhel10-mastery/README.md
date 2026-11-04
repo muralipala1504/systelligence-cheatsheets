@@ -15,5 +15,7 @@ Enterprise Linux for production — RHEL 10 and AlmaLinux 10 from an engineer wi
 | Ep3 | RHEL 10 Security Hardening | [rhel10-security-hardening.md](rhel10-security-hardening.md) |
 | Ep4 | RHEL 10 Performance Tuning for AI | [rhel10-ai-performance-tuning.md](rhel10-ai-performance-tuning.md) |
 | Ep5 | RHEL 10 Podman Quadlet | [rhel10-podman-quadlet.md](rhel10-podman-quadlet.md) |
+| Ep6 | Ansible Automation on RHEL 10 | [rhel10-ansible-automation.md](rhel10-ansible-automation.md) |
 ---
+
 *Questions? Drop them in the YouTube comments — I read every single one.*

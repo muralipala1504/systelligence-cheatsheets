@@ -23,5 +23,7 @@ Real Linux production incidents — diagnosed and fixed the way twenty years of 
 | Ep11 | The Binance Hack Endpoint Forensics | [binance-hack-forensics.md](binance-hack-forensics.md) |
 | Ep12 | Read-Only Filesystem Recovery | [read-only-filesystem-recovery.md](read-only-filesystem-recovery.md) |
 | Ep14 | The 50 Degree Freezer Hack | [iot-freezer-hack-hardening.md](iot-freezer-hack-hardening.md) |
+| Ep15 | The Silent NIC Drop | [silent-nic-drop-debugging.md](silent-nic-drop-debugging.md) |
 ---
+
 *Questions? Drop them in the YouTube comments — I read every single one.*

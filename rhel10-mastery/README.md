@@ -17,6 +17,7 @@ Enterprise Linux for production — RHEL 10 and AlmaLinux 10 from an engineer wi
 | Ep5 | RHEL 10 Podman Quadlet | [rhel10-podman-quadlet.md](rhel10-podman-quadlet.md) |
 | Ep6 | Ansible Automation on RHEL 10 | [rhel10-ansible-automation.md](rhel10-ansible-automation.md) |
 | Ep7 | RHEL 10 vs AlmaLinux 10 | [rhel10-vs-alma10-reality.md](rhel10-vs-alma10-reality.md) |
+| Ep8 | Alma 9 to Alma 10 Live Upgrade | [alma9-to-alma10-elevate.md](alma9-to-alma10-elevate.md) |
 ---
 
 *Questions? Drop them in the YouTube comments — I read every single one.*

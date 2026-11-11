@@ -24,6 +24,7 @@ Real Linux production incidents — diagnosed and fixed the way twenty years of 
 | Ep12 | Read-Only Filesystem Recovery | [read-only-filesystem-recovery.md](read-only-filesystem-recovery.md) |
 | Ep14 | The 50 Degree Freezer Hack | [iot-freezer-hack-hardening.md](iot-freezer-hack-hardening.md) |
 | Ep15 | The Silent NIC Drop | [silent-nic-drop-debugging.md](silent-nic-drop-debugging.md) |
+| Ep16 | The 9.8 TCP Flaw (CVE-2026-98432) | [cve-2026-98432-tcp-flaw.md](cve-2026-98432-tcp-flaw.md) |
 ---
 
 *Questions? Drop them in the YouTube comments — I read every single one.*

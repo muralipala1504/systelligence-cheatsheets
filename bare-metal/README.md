@@ -17,6 +17,7 @@ Enterprise bare metal server management and AI infrastructure — skills most Li
 | Part 16 | LLM on Bare Metal - Ollama | [llm-on-bare-metal-ollama.md](llm-on-bare-metal-ollama.md) |
 | Part 17 | Bare Metal Kubernetes on RHEL 10 | [bare-metal-kubernetes.md](bare-metal-kubernetes.md) |
 | Part 19 | HugePages and Memory Tuning for LLMs | [hugepages-memory-tuning.md](hugepages-memory-tuning.md) |
+| Part 20 | Inside the AI GPU - Blackwell vs Rubin | [ai-gpu-architecture.md](ai-gpu-architecture.md) |
 ---
 
 *Questions? Drop them in the YouTube comments — I read every single one.*

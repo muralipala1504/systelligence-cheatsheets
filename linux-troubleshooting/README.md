@@ -25,6 +25,7 @@ Real Linux production incidents — diagnosed and fixed the way twenty years of 
 | Ep14 | The 50 Degree Freezer Hack | [iot-freezer-hack-hardening.md](iot-freezer-hack-hardening.md) |
 | Ep15 | The Silent NIC Drop | [silent-nic-drop-debugging.md](silent-nic-drop-debugging.md) |
 | Ep16 | The 9.8 TCP Flaw (CVE-2026-98432) | [cve-2026-98432-tcp-flaw.md](cve-2026-98432-tcp-flaw.md) |
+| Ep17 | Zero Trust Architecture on RHEL 10 | [zero-trust-rhel10.md](zero-trust-rhel10.md) |
 ---
 
 *Questions? Drop them in the YouTube comments — I read every single one.*

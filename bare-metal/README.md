@@ -18,6 +18,7 @@ Enterprise bare metal server management and AI infrastructure — skills most Li
 | Part 17 | Bare Metal Kubernetes on RHEL 10 | [bare-metal-kubernetes.md](bare-metal-kubernetes.md) |
 | Part 19 | HugePages and Memory Tuning for LLMs | [hugepages-memory-tuning.md](hugepages-memory-tuning.md) |
 | Part 20 | Inside the AI GPU - Blackwell vs Rubin | [ai-gpu-architecture.md](ai-gpu-architecture.md) |
+| Part 21 | NUMA and CPU Pinning for AI | [numa-cpu-pinning.md](numa-cpu-pinning.md) |
 ---
 
 *Questions? Drop them in the YouTube comments — I read every single one.*

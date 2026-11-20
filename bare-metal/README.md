@@ -19,6 +19,7 @@ Enterprise bare metal server management and AI infrastructure — skills most Li
 | Part 19 | HugePages and Memory Tuning for LLMs | [hugepages-memory-tuning.md](hugepages-memory-tuning.md) |
 | Part 20 | Inside the AI GPU - Blackwell vs Rubin | [ai-gpu-architecture.md](ai-gpu-architecture.md) |
 | Part 21 | NUMA and CPU Pinning for AI | [numa-cpu-pinning.md](numa-cpu-pinning.md) |
+| Part 22 | VRAM Sizing for Local AI | [vram-sizing-local-ai.md](vram-sizing-local-ai.md) |
 ---
 
 *Questions? Drop them in the YouTube comments — I read every single one.*

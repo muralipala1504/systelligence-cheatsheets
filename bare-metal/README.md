@@ -20,6 +20,7 @@ Enterprise bare metal server management and AI infrastructure — skills most Li
 | Part 20 | Inside the AI GPU - Blackwell vs Rubin | [ai-gpu-architecture.md](ai-gpu-architecture.md) |
 | Part 21 | NUMA and CPU Pinning for AI | [numa-cpu-pinning.md](numa-cpu-pinning.md) |
 | Part 22 | VRAM Sizing for Local AI | [vram-sizing-local-ai.md](vram-sizing-local-ai.md) |
+| Part 23 | Dell iDRAC vs HPE iLO | [idrac-vs-ilo-comparison.md](idrac-vs-ilo-comparison.md) |
 ---
 
 *Questions? Drop them in the YouTube comments — I read every single one.*

@@ -19,5 +19,5 @@ Enterprise Linux for production — RHEL 10 and AlmaLinux 10 from an engineer wi
 | Ep7 | RHEL 10 vs AlmaLinux 10 | [rhel10-vs-alma10-reality.md](rhel10-vs-alma10-reality.md) |
 | Ep8 | Alma 9 to Alma 10 Live Upgrade | [alma9-to-alma10-elevate.md](alma9-to-alma10-elevate.md) |
 | Ep9 | Stratis Storage on RHEL 10 | [rhel10-stratis-storage.md](rhel10-stratis-storage.md) |---
-
+| Ep10 | OpenSCAP and STIG on RHEL 10 | [openscap-stig-rhel10.md](openscap-stig-rhel10.md) |
 *Questions? Drop them in the YouTube comments — I read every single one.*

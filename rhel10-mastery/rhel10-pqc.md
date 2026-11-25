@@ -83,5 +83,8 @@ echo | openssl s_client -connect localhost:4433 -groups X25519MLKEM768 -brief
 ssh -Q kex | grep -i mlkem
 # Output: mlkem768x25519-sha256, mlkem768nistp256-sha256, mlkem1024nistp384-sha384
 
+8. The SSH Policy Trap
+If you set update-crypto-policies --set FUTURE, older SSH clients (like PuTTY < 0.83) will be locked out. Test with the latest PuTTY (0.85+) before rolling out fleet-wide.
+
 Questions? Drop them in the YouTube comments — I read every single one.
 📺 youtube.com/@SysTelligence

@@ -21,6 +21,7 @@ Enterprise bare metal server management and AI infrastructure — skills most Li
 | Part 21 | NUMA and CPU Pinning for AI | [numa-cpu-pinning.md](numa-cpu-pinning.md) |
 | Part 22 | VRAM Sizing for Local AI | [vram-sizing-local-ai.md](vram-sizing-local-ai.md) |
 | Part 23 | Dell iDRAC vs HPE iLO | [idrac-vs-ilo-comparison.md](idrac-vs-ilo-comparison.md) |
+| Part 24 | The $30,000 AI Server Build | [ai-server-build-30k.md](ai-server-build-30k.md) |
 ---
 
 *Questions? Drop them in the YouTube comments — I read every single one.*

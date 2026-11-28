@@ -27,7 +27,7 @@ Real Linux production incidents — diagnosed and fixed the way twenty years of 
 | Ep16 | The 9.8 TCP Flaw (CVE-2026-98432) | [cve-2026-98432-tcp-flaw.md](cve-2026-98432-tcp-flaw.md) |
 | Ep17 | Zero Trust Architecture on RHEL 10 | [zero-trust-rhel10.md](zero-trust-rhel10.md) |
 | Ep18 | The Week Everything Broke | [week-everything-broke.md](week-everything-broke.md) |
-
+| Ep19 | Memory Leaks and Ghost Processes | [memory-leak-bpftrace.md](memory-leak-bpftrace.md) |
 ---
 
 *Questions? Drop them in the YouTube comments — I read every single one.*
